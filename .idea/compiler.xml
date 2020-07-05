@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cvs-order-man.biz" />
+        <module name="cvs-order-man.common" />
+        <module name="cvs-order-man.model" />
+        <module name="cvs-order-man.provider" />
+        <module name="cvs-order-user.biz" />
+        <module name="cvs-order-user.common" />
+        <module name="cvs-order-user.man" />
+        <module name="cvs-order-user.service" />
+        <module name="cvs-promotion-service" />
+        <module name="cvs-promotion-task" />
+        <module name="cvs-promotion-web" />
+        <module name="scenariov2" />
+        <module name="trade_case_autocreate" />
+        <module name="user-center-auth" />
+        <module name="user-center-biz" />
+        <module name="user-center-login" />
+        <module name="user-center-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cvs-order-man" target="1.8" />
+      <module name="cvs-order-man.biz" target="1.8" />
+      <module name="cvs-order-man.common" target="1.8" />
+      <module name="cvs-order-man.model" target="1.8" />
+      <module name="cvs-order-man.provider" target="1.8" />
+      <module name="cvs-order-user" target="1.8" />
+      <module name="cvs-order-user.biz" target="1.8" />
+      <module name="cvs-order-user.common" target="1.8" />
+      <module name="cvs-order-user.man" target="1.8" />
+      <module name="cvs-order-user.service" target="1.8" />
+      <module name="cvs-promotion-root" target="1.8" />
+      <module name="cvs-promotion-service" target="1.8" />
+      <module name="cvs-promotion-task" target="1.8" />
+      <module name="cvs-promotion-web" target="1.8" />
+      <module name="scenariov2" target="1.8" />
+      <module name="trade_case_autocreate" target="1.8" />
+      <module name="user-center" target="1.8" />
+      <module name="user-center-auth" target="1.8" />
+      <module name="user-center-biz" target="1.8" />
+      <module name="user-center-login" target="1.8" />
+      <module name="user-center-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

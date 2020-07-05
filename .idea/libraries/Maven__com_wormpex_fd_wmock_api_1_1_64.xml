@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wormpex.fd:wmock-api:1.1.64">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/fd/wmock-api/1.1.64/wmock-api-1.1.64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/fd/wmock-api/1.1.64/wmock-api-1.1.64-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/fd/wmock-api/1.1.64/wmock-api-1.1.64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

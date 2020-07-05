@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wormpex.cvs:cvs-product-user-api:1.4.127">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/cvs/cvs-product-user-api/1.4.127/cvs-product-user-api-1.4.127.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/cvs/cvs-product-user-api/1.4.127/cvs-product-user-api-1.4.127-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/cvs/cvs-product-user-api/1.4.127/cvs-product-user-api-1.4.127-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

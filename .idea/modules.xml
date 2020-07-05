@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithm011-class01.iml" filepath="$PROJECT_DIR$/.idea/algorithm011-class01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-man/cvs-order-man.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-man/cvs-order-man.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-man/biz/cvs-order-man.biz.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-man/biz/cvs-order-man.biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-man/common/cvs-order-man.common.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-man/common/cvs-order-man.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-man/model/cvs-order-man.model.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-man/model/cvs-order-man.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-man/provider/cvs-order-man.provider.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-man/provider/cvs-order-man.provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-user/cvs-order-user.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-user/cvs-order-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-user/biz/cvs-order-user.biz.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-user/biz/cvs-order-user.biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-user/common/cvs-order-user.common.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-user/common/cvs-order-user.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-user/web/cvs-order-user.man.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-user/web/cvs-order-user.man.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-user/service/cvs-order-user.service.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-user/service/cvs-order-user.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-root.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-service/cvs-promotion-service.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-service/cvs-promotion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-task/cvs-promotion-task.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-task/cvs-promotion-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-web/cvs-promotion-web.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-web/cvs-promotion-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-user/scenariov2/scenariov2.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-user/scenariov2/scenariov2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/trade_case_autocreate/trade_case_autocreate.iml" filepath="$PROJECT_DIR$/../../cvs/trade_case_autocreate/trade_case_autocreate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-user-center/user-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-auth/user-center-auth.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-auth/user-center-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-biz/user-center-biz.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-biz/user-center-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-login/user-center-login.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-login/user-center-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-service/user-center-service.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-service/user-center-service.iml" />
+    </modules>
+  </component>
+</project>

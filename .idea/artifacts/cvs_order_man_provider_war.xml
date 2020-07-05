@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cvs-order-man.provider:war">
+    <output-path>$PROJECT_DIR$/../../cvs/cvs-order-man/provider/target</output-path>
+    <root id="archive" name="cvs-order-man.provider.war">
+      <element id="artifact" artifact-name="cvs-order-man.provider:war exploded" />
+    </root>
+  </artifact>
+</component>

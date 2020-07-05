@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="trade_case_autocreate:war">
+    <output-path>$PROJECT_DIR$/../../cvs/trade_case_autocreate/target</output-path>
+    <root id="archive" name="trade_case_autoCreate.war">
+      <element id="artifact" artifact-name="trade_case_autocreate:war exploded" />
+    </root>
+  </artifact>
+</component>

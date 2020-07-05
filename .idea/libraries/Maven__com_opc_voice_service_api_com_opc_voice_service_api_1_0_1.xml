@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.opc.voice.service.api:com.opc.voice.service.api:1.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/voice/service/api/com.opc.voice.service.api/1.0.1/com.opc.voice.service.api-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/voice/service/api/com.opc.voice.service.api/1.0.1/com.opc.voice.service.api-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/voice/service/api/com.opc.voice.service.api/1.0.1/com.opc.voice.service.api-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

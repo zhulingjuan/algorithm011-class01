@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.opc.shelves:shelf-baseinfo-api:1.3.225">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/shelf-baseinfo-api/1.3.225/shelf-baseinfo-api-1.3.225.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/shelf-baseinfo-api/1.3.225/shelf-baseinfo-api-1.3.225-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/shelf-baseinfo-api/1.3.225/shelf-baseinfo-api-1.3.225-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

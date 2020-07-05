@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.opc.shelves:unmanned-shelves-api:1.4.146">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/unmanned-shelves-api/1.4.146/unmanned-shelves-api-1.4.146.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/unmanned-shelves-api/1.4.146/unmanned-shelves-api-1.4.146-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/unmanned-shelves-api/1.4.146/unmanned-shelves-api-1.4.146-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

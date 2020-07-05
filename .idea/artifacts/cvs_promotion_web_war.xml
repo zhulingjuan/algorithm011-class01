@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cvs-promotion-web:war">
+    <output-path>$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-web/target</output-path>
+    <root id="archive" name="cvs-promotion-web.war">
+      <element id="artifact" artifact-name="cvs-promotion-web:war exploded" />
+    </root>
+  </artifact>
+</component>

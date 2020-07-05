@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.opc.shelves:unmanned-order-core-api:1.0.111">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/unmanned-order-core-api/1.0.111/unmanned-order-core-api-1.0.111.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/unmanned-order-core-api/1.0.111/unmanned-order-core-api-1.0.111-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opc/shelves/unmanned-order-core-api/1.0.111/unmanned-order-core-api-1.0.111-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

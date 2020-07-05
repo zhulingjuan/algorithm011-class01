@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wormpex.bach:bach-root.bundles:1.1.95">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-root.bundles/1.1.95/bach-root.bundles-1.1.95.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-root.bundles/1.1.95/bach-root.bundles-1.1.95-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-root.bundles/1.1.95/bach-root.bundles-1.1.95-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
