@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wormpex.bach:bach-scm-wms-core-api.model:1.0.113">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-scm-wms-core-api.model/1.0.113/bach-scm-wms-core-api.model-1.0.113.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-scm-wms-core-api.model/1.0.113/bach-scm-wms-core-api.model-1.0.113-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-scm-wms-core-api.model/1.0.113/bach-scm-wms-core-api.model-1.0.113-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

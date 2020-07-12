@@ -17,6 +17,24 @@
       <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-service/cvs-promotion-service.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-service/cvs-promotion-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-task/cvs-promotion-task.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-task/cvs-promotion-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-web/cvs-promotion-web.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-web/cvs-promotion-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/cvs_meepo.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/cvs_meepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/cms/cvs_meepo.cms.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/cms/cvs_meepo.cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/couponcenter/cvs_meepo.couponcenter.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/couponcenter/cvs_meepo.couponcenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/dataset/cvs_meepo.dataset.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/dataset/cvs_meepo.dataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/cvs_meepo.groupbuy/cvs_meepo.groupbuy.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/cvs_meepo.groupbuy/cvs_meepo.groupbuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/lottery/cvs_meepo.lottery.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/lottery/cvs_meepo.lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/notify/cvs_meepo.notify.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/notify/cvs_meepo.notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/ordercoupon/cvs_meepo.ordercoupon.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/ordercoupon/cvs_meepo.ordercoupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/packagecenter/cvs_meepo.packagecenter.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/packagecenter/cvs_meepo.packagecenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/privilegecard/cvs_meepo.privilegecard.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/privilegecard/cvs_meepo.privilegecard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/qrcode/cvs_meepo.qrcode.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/qrcode/cvs_meepo.qrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/receivecenter/cvs_meepo.receivecenter.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/receivecenter/cvs_meepo.receivecenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/service/cvs_meepo.service.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/service/cvs_meepo.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/share/cvs_meepo.share.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/share/cvs_meepo.share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/task/cvs_meepo.task.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/task/cvs_meepo.task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/web/cvs_meepo.web.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/web/cvs_meepo.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs_meepo/zerobuy/cvs_meepo.zerobuy.iml" filepath="$PROJECT_DIR$/../../cvs/cvs_meepo/zerobuy/cvs_meepo.zerobuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cvs/qa_test/qa-test.iml" filepath="$PROJECT_DIR$/../../cvs/qa_test/qa-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-order-user/scenariov2/scenariov2.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-order-user/scenariov2/scenariov2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../cvs/trade_case_autocreate/trade_case_autocreate.iml" filepath="$PROJECT_DIR$/../../cvs/trade_case_autocreate/trade_case_autocreate.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center.iml" filepath="$PROJECT_DIR$/../../cvs/cvs-user-center/user-center.iml" />

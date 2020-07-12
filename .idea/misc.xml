@@ -7,6 +7,8 @@
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-web" />
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-auth" />
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-login" />
+    <file type="web" url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../cvs/qa_test" />
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/trade_case_autocreate" />
   </component>
   <component name="MavenProjectsManager">
@@ -17,6 +19,8 @@
         <option value="$PROJECT_DIR$/../../cvs/cvs-order-man/pom.xml" />
         <option value="$PROJECT_DIR$/../../cvs/trade_case_autocreate/pom.xml" />
         <option value="$PROJECT_DIR$/../../cvs/cvs-user-center/pom.xml" />
+        <option value="$PROJECT_DIR$/../../cvs/cvs_meepo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../cvs/qa_test/pom.xml" />
       </list>
     </option>
   </component>

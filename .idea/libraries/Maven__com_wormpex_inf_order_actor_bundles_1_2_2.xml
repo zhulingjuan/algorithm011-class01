@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wormpex.inf:order-actor.bundles:1.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/inf/order-actor.bundles/1.2.2/order-actor.bundles-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/inf/order-actor.bundles/1.2.2/order-actor.bundles-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/inf/order-actor.bundles/1.2.2/order-actor.bundles-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wormpex.bach:bach-scm-supplier-core-api.remote:1.0.54">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-scm-supplier-core-api.remote/1.0.54/bach-scm-supplier-core-api.remote-1.0.54.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-scm-supplier-core-api.remote/1.0.54/bach-scm-supplier-core-api.remote-1.0.54-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/bach/bach-scm-supplier-core-api.remote/1.0.54/bach-scm-supplier-core-api.remote-1.0.54-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

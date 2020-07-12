@@ -17,6 +17,23 @@
         <module name="cvs-promotion-service" />
         <module name="cvs-promotion-task" />
         <module name="cvs-promotion-web" />
+        <module name="cvs_meepo.cms" />
+        <module name="cvs_meepo.couponcenter" />
+        <module name="cvs_meepo.dataset" />
+        <module name="cvs_meepo.groupbuy" />
+        <module name="cvs_meepo.lottery" />
+        <module name="cvs_meepo.notify" />
+        <module name="cvs_meepo.ordercoupon" />
+        <module name="cvs_meepo.packagecenter" />
+        <module name="cvs_meepo.privilegecard" />
+        <module name="cvs_meepo.qrcode" />
+        <module name="cvs_meepo.receivecenter" />
+        <module name="cvs_meepo.service" />
+        <module name="cvs_meepo.share" />
+        <module name="cvs_meepo.task" />
+        <module name="cvs_meepo.web" />
+        <module name="cvs_meepo.zerobuy" />
+        <module name="qa-test" />
         <module name="scenariov2" />
         <module name="trade_case_autocreate" />
         <module name="user-center-auth" />
@@ -40,6 +57,24 @@
       <module name="cvs-promotion-service" target="1.8" />
       <module name="cvs-promotion-task" target="1.8" />
       <module name="cvs-promotion-web" target="1.8" />
+      <module name="cvs_meepo" target="1.8" />
+      <module name="cvs_meepo.cms" target="1.8" />
+      <module name="cvs_meepo.couponcenter" target="1.8" />
+      <module name="cvs_meepo.dataset" target="1.8" />
+      <module name="cvs_meepo.groupbuy" target="1.8" />
+      <module name="cvs_meepo.lottery" target="1.8" />
+      <module name="cvs_meepo.notify" target="1.8" />
+      <module name="cvs_meepo.ordercoupon" target="1.8" />
+      <module name="cvs_meepo.packagecenter" target="1.8" />
+      <module name="cvs_meepo.privilegecard" target="1.8" />
+      <module name="cvs_meepo.qrcode" target="1.8" />
+      <module name="cvs_meepo.receivecenter" target="1.8" />
+      <module name="cvs_meepo.service" target="1.8" />
+      <module name="cvs_meepo.share" target="1.8" />
+      <module name="cvs_meepo.task" target="1.8" />
+      <module name="cvs_meepo.web" target="1.8" />
+      <module name="cvs_meepo.zerobuy" target="1.8" />
+      <module name="qa-test" target="1.8" />
       <module name="scenariov2" target="1.8" />
       <module name="trade_case_autocreate" target="1.8" />
       <module name="user-center" target="1.8" />

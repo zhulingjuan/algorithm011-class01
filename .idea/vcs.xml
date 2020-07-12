@@ -6,6 +6,8 @@
     <mapping directory="$PROJECT_DIR$/../../cvs/cvs-order-user" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../cvs/cvs-promotion" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../cvs/cvs-user-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../cvs/cvs_meepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../cvs/qa_test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../cvs/trade_case_autocreate" vcs="Git" />
   </component>
 </project>

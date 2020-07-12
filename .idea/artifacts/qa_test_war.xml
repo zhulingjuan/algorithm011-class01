@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qa-test:war">
+    <output-path>$PROJECT_DIR$/../../cvs/qa_test/target</output-path>
+    <root id="archive" name="qa-test.war">
+      <element id="artifact" artifact-name="qa-test:war exploded" />
+    </root>
+  </artifact>
+</component>
