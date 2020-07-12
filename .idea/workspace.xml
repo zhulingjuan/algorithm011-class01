@@ -15,165 +15,9 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../../cvs/trade_case_autocreate/src/test/resources/freeOrder/cases/scanCode.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../../cvs/trade_case_autocreate/src/test/resources/freeOrder/cases/tradeOrderDetail.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../../cvs/trade_case_autocreate/src/test/resources/freeOrder/service.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/cvs_meepo_web_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/cvs_meepo_web_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/qa_test_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/qa_test_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_bianlifeng_logistics_logistics_management_api_1_0_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_aviator_aviator_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_aviator_aviator_4_2_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_opc_common_common_1_0_61.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_opc_shelves_shelf_baseinfo_api_1_3_195.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_opc_shelves_unmanned_order_core_api_20181224_YUNDING_6552_20181228_042201_22.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_promotion_housekeeper_promotion_housekeeper_api_1_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sensorsdata_analytics_javasdk_SensorsAnalyticsSDK_3_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sleepycat_je_5_0_73.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_goblin_api_1_0_41.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_goblin_api_1_0_58.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_inventory_api_1_1_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_inventory_api_1_1_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_osm_api_1_0_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_product_api_1_2_128.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_product_api_1_2_52.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_shop_api_1_0_68.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_shop_api_1_0_93.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_supplier_api_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_version_api_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_wac_api_1_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_baseinfo_work_order_api_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_libra_api_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_libra_api_1_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_open_product_api_1_1_58.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_open_product_api_1_1_94.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_root_api_1_1_38.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_root_api_1_1_63.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_root_bundles_1_1_63.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_root_finance_1_1_63.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_root_sdk_1_1_38.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_root_sdk_1_1_63.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_baseinfo_core_api_model_1_0_132.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_baseinfo_core_api_remote_1_0_132.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_baseinfo_core_api_util_1_0_132.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_shop_core_api_model_1_0_87.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_shop_core_api_remote_1_0_87.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_shop_core_api_util_1_0_87.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_shop_man_api_model_1_0_51.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_shop_man_api_remote_1_0_51.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_struct_model_1_0_68.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_supplier_core_api_model_1_0_54.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_supplier_core_api_remote_1_0_54.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_supplier_core_api_util_1_0_54.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_wms_core_api_model_1_0_113.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_wms_core_api_remote_1_0_113.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_wms_core_api_util_1_0_113.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_wms_remote_api_model_1_0_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_wms_remote_api_remote_1_0_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bach_bach_scm_wms_remote_api_util_1_0_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_bto_turing_realtime_core_model_1_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_common_wcommon_lang_2_2_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_meepo_api_1_0_49.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_notify_api_1_0_40.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_order_core_api_model_1_2_61.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_order_open_api_model_1_0_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_order_open_api_remote_1_0_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_pos_api_model_1_0_22.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_product_api_1_1_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_product_user_api_1_4_122.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_product_user_api_1_4_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_promotion_api_1_3_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_root_api_1_1_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_cvs_root_bundles_1_1_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_user_center_api_1_1_31.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_cvs_wechat_gateway_api_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_data_data_entity_tags_api_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_data_data_insight_api_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_data_data_insight_platform_api_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_data_poseidon_api_1_0_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_dms_dms_order_core_api_1_0_70.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_idgenerator_api_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_inventory_store_api_2_1_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_inventory_store_api_2_1_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_order_actor_api_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_order_actor_bundles_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_order_actor_client_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_order_store_api_1_0_24.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_common_beans_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_common_lang_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_common_lock_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_common_monitor_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_common_util_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_common_wrule_1_0_30.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_core_api_model_1_0_62.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_core_api_remote_1_0_62.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_inf_promotion_promotion_abtest_api_1_0_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_baseinfo_core_api_common_1_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_baseinfo_core_api_model_1_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_baseinfo_core_api_remote_1_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_inbound_core_api_model_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_inbound_core_api_remote_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_inbound_core_api_util_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_outbound_core_api_model_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_outbound_core_api_remote_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_moliere_moliere_outbound_core_api_util_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_platform_imgup_client_1_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_platform_platform_notify_api_1_1_29.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_platform_rbac_api_1_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_sec_sec_sso_api_1_0_33.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wormpex_wms_wms_base_api_2_0_40.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cvs_promotion_inventory_promotion_inventory_api_1_0_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_6_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_flume_ng_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjtools_1_8_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_7_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_typehandlers_jsr310_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week_03/N皇后.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week_03/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week_03/从中序与后序遍历序列构造二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week_03/括号生成.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week_03/括号生成1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week_03/电话号码的字母组合.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week_03/螺旋矩阵.java" />
       <change beforePath="$PROJECT_DIR$/../../cvs/cvs-order-man/provider/src/main/java/com/wormpex/cvs/order/man/controller/fp/FreePwdController.java" afterPath="$PROJECT_DIR$/../../cvs/cvs-order-man/provider/src/main/java/com/wormpex/cvs/order/man/controller/fp/FreePwdController.java" />
       <change beforePath="$PROJECT_DIR$/../../cvs/qa_test/src/main/webapp/static/js/trade/otherQrcode.js" afterPath="$PROJECT_DIR$/../../cvs/qa_test/src/main/webapp/static/js/trade/otherQrcode.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Week_02/README.md" afterPath="$PROJECT_DIR$/Week_02/README.md" />
       <change beforePath="$PROJECT_DIR$/Week_03/README.md" afterPath="$PROJECT_DIR$/Week_03/README.md" />
-      <change beforePath="$PROJECT_DIR$/compile/production/algorithm011-class01/README.md" afterPath="$PROJECT_DIR$/compile/production/algorithm011-class01/README.md" />
-      <change beforePath="$PROJECT_DIR$/compile/production/algorithm011-class01/滑动窗口最大值.class" afterPath="$PROJECT_DIR$/compile/production/algorithm011-class01/滑动窗口最大值.class" />
-      <change beforePath="$PROJECT_DIR$/compile/production/algorithm011-class01/用两个栈实现队列.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/../../cvs/cvs-promotion/target/" />
     <ignored path="$PROJECT_DIR$/../../cvs/cvs-promotion/cvs-promotion-service/target/" />
@@ -245,6 +89,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_03/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="括号生成1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_03/括号生成1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -258,8 +115,8 @@
       <file leaf-file-name="螺旋矩阵.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_03/螺旋矩阵.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="32" column="20" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="495">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -278,12 +135,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="N皇后.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="N皇后.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_03/N皇后.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -319,16 +178,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qrCode.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../cvs/qa_test/src/main/webapp/static/js/trade/qrCode.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -427,8 +276,6 @@
         <option value="$PROJECT_DIR$/Week_02/README.md" />
         <option value="$PROJECT_DIR$/Week_03/括号生成.java" />
         <option value="$PROJECT_DIR$/Week_03/括号生成1.java" />
-        <option value="$PROJECT_DIR$/Week_03/README.md" />
-        <option value="$PROJECT_DIR$/Week_03/N皇后.java" />
         <option value="$PROJECT_DIR$/Week_03/螺旋矩阵.java" />
         <option value="$PROJECT_DIR$/../../cvs/qa_test/src/main/java/com/wormpex/qa/biz/AutoboxEnvBiz.java" />
         <option value="$PROJECT_DIR$/../../cvs/qa_test/src/main/java/com/wormpex/qa/controller/AutoBoxEnvController.java" />
@@ -439,6 +286,8 @@
         <option value="$PROJECT_DIR$/Week_03/TreeNode.java" />
         <option value="$PROJECT_DIR$/Week_03/从中序与后序遍历序列构造二叉树.java" />
         <option value="$PROJECT_DIR$/Week_03/电话号码的字母组合.java" />
+        <option value="$PROJECT_DIR$/Week_03/N皇后.java" />
+        <option value="$PROJECT_DIR$/Week_03/README.md" />
       </list>
     </option>
   </component>
@@ -939,7 +788,7 @@
       <workItem from="1594039065183" duration="1689000" />
       <workItem from="1594124858935" duration="5561000" />
       <workItem from="1594210347333" duration="914000" />
-      <workItem from="1594278892339" duration="28705000" />
+      <workItem from="1594278892339" duration="29016000" />
     </task>
     <task id="LOCAL-00001" summary="homework">
       <created>1593357086791</created>
@@ -1012,11 +861,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93814000" />
+    <option name="totallyTimeSpent" value="94125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1792" height="1011" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1039,7 +887,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48908296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28275108" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50545853" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50545853" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27542856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1211,17 +1059,6 @@
         <state relative-caret-position="30">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_03/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="42" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1585,6 +1422,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/括号生成.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/N皇后.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week_03/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1601,26 +1456,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_03/括号生成.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_03/括号生成1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_03/螺旋矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1636,11 +1475,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_03/N皇后.java">
+    <entry file="file://$PROJECT_DIR$/Week_03/螺旋矩阵.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="495">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
