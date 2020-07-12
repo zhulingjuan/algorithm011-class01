@@ -19,3 +19,11 @@
 * 不要人肉递归
 * 找到最近最简方法，将其拆解成可重复解决的问题（重复子问题）
 * 数学归纳法
+
+# 分治模版
+
+* 终结逻辑 recursion terminator
+* 准备数据 prepare data
+* 下探一层 conquer subproblems
+* process and generate the final result
+* revert the current level states
