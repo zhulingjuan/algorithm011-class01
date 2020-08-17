@@ -1,31 +1,29 @@
+# 题目：
+* https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+* https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+* https://leetcode-cn.com/problems/combinations/
+* https://leetcode-cn.com/problems/permutations/
+* https://leetcode-cn.com/problems/permutations-ii/
+* https://leetcode-cn.com/problems/majority-element/description/
+* https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+* https://leetcode-cn.com/problems/n-queens/
 
-# 自己认为的前端目录
+# 递归模版： 
 
-* js css html
+* 终结逻辑 recursion terminator
+* 当前层逻辑 process logic in current level
+* 下探到下一层，drill down
+* 清扫当前层状态 reverse the current level status if needed
 
-* vue 或者 react
+# 递归注意点
+* 不要人肉递归
+* 找到最近最简方法，将其拆解成可重复解决的问题（重复子问题）
+* 数学归纳法
 
-* 构建工具。打包。发布
+# 分治模版
 
-* 测试方式，比如 单元测试，测试覆盖率
-
-# 课程的目录
-
-* 感觉跟我想的差不多，我才报名的，哈哈哈
-
-# 用老师所教授的追溯法，并通过理解将其补充完整，形成自己的知识体系
-
-## 我一直对promise搞不清楚，遇到问题查一下好像懂了的样子，下次还是一头雾水。用追溯法了解一下 promise 在什么情况下出现，又解决了什么问题的。
-
-###  什么情况下出现：为了解决异步编程
-*  我一直疑惑的是js是单线程，为什么可以并行处理问题呢😂，js是单线程设计没问题，但是浏览器不是呀。因为浏览器的js
-引擎是单线程，才导致js是单线程设计（此处没有查阅相关材料，自己瞎掰 https://juejin.im/post/5d81bee2f265da03bf0f787d）
-虽然js引擎只能干一件事情，但是浏览器不止js引擎一个线程呀，
-可以把对应的事情分给对应的线程去做（https://juejin.im/post/5ca49fea6fb9a05e731fc03d），所以才会有异步这种情况。
-所以异步就是把可以交给其他线程的事情 交给其他线程，之后在回调（其他线程排队到JS引擎的待处理队列，等待处理）
-
-* 
- 
-
-
-
+* 终结逻辑 recursion terminator
+* 准备数据 prepare data
+* 下探一层 conquer subproblems
+* process and generate the final result
+* revert the current level states
