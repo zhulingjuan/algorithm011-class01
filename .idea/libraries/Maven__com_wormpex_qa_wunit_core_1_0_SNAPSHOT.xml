@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.wormpex.qa:wunit-core:1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200703.033229-13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200721.131350-14.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200703.033229-13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200721.131350-14-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200703.033229-13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200721.131350-14-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

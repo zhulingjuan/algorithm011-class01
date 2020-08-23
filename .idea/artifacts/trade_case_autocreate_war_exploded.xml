@@ -223,7 +223,7 @@
           <element id="library" level="project" name="Maven: com.wormpex.bach:bach-data-auth-core:1.0.12" />
           <element id="library" level="project" name="Maven: com.wormpex.bach:bach-data-auth-api:1.0.6" />
           <element id="library" level="project" name="Maven: com.wormpex.bach:bach-data-auth-base:1.0.8" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200703.033229-13.jar" output-file-name="wunit-core-1.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/wormpex/qa/wunit-core/1.0-SNAPSHOT/wunit-core-1.0-20200721.131350-14.jar" output-file-name="wunit-core-1.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.skyscreamer:jsonassert:1.5.0" />
           <element id="library" level="project" name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" />
           <element id="library" level="project" name="Maven: org.dom4j:dom4j:2.1.3" />

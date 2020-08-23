@@ -33,11 +33,17 @@
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/privilegecard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/qrcode" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/receivecenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/redpackage" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/share" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/task" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/zerobuy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../cvs/promotion-base-store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../cvs/promotion-base-store/promotion-base-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../cvs/promotion-base-store/promotion-base-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../cvs/promotion-base-store/promotion-base-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../cvs/promotion-base-store/promotion-base-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/qa_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../cvs/trade_case_autocreate" charset="UTF-8" />
   </component>

@@ -1,0 +1,261 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="promotion-base-provider:war exploded">
+    <output-path>$PROJECT_DIR$/../../cvs/promotion-base-store/promotion-base-provider/target/promotion-base-provider</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="promotion-base-provider" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: com.wormpex.cvs:cvs-root.bundles:1.2.29" />
+          <element id="library" level="project" name="Maven: com.wormpex.cvs:cvs-root.api:1.2.29" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-concurrent:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-core:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-profile-api:2.2.24" />
+          <element id="library" level="project" name="Maven: org.asynchttpclient:async-http-client:2.0.32" />
+          <element id="library" level="project" name="Maven: org.asynchttpclient:async-http-client-netty-utils:2.0.32" />
+          <element id="library" level="project" name="Maven: org.asynchttpclient:netty-resolver-dns:2.0.32" />
+          <element id="library" level="project" name="Maven: org.asynchttpclient:netty-resolver:2.0.32" />
+          <element id="library" level="project" name="Maven: org.asynchttpclient:netty-codec-dns:2.0.32" />
+          <element id="library" level="project" name="Maven: org.reactivestreams:reactive-streams:1.0.0" />
+          <element id="library" level="project" name="Maven: com.typesafe.netty:netty-reactive-streams:1.0.8" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-jdbc:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-metrics:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.cat:cat-core:1.4.3" />
+          <element id="library" level="project" name="Maven: com.wormpex.cat:cat-client:1.4.3" />
+          <element id="library" level="project" name="Maven: org.unidal.framework:foundation-service:2.5.0" />
+          <element id="library" level="project" name="Maven: org.unidal.framework:web-framework:2.5.0" />
+          <element id="library" level="project" name="Maven: org.unidal.framework:dal-jdbc:2.5.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-container-default:1.6" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-classworlds:2.5.1" />
+          <element id="library" level="project" name="Maven: org.apache.xbean:xbean-reflect:3.7" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-utils:3.0.24" />
+          <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.2" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-microkernel:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-web:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-profile-lib:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-gray:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:waf-client:1.0.3" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:waf-api:1.0.3" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:applicationcenter-api:1.1.2" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wclient-http:1.3.20" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:20.0" />
+          <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:3.4.1" />
+          <element id="library" level="project" name="Maven: com.squareup.okio:okio:1.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.5" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.8" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpmime:4.5.2" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wtrace-api:1.1.21" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wclient-rpc:1.3.20" />
+          <element id="library" level="project" name="Maven: com.wormpex.dubbo:dubbo:1.1.8" />
+          <element id="library" level="project" name="Maven: com.wormpex.dubbo:dubbo-async-api:1.1.8" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk16:1.46" />
+          <element id="library" level="project" name="Maven: com.wormpex.dubbo:async:1.1.8" />
+          <element id="library" level="project" name="Maven: com.wormpex.dubbo:dubbo-async-processor:1.1.8" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.9.9.Final" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wclient-remoting:1.3.20" />
+          <element id="library" level="project" name="Maven: org.xerial.snappy:snappy-java:1.1.7.1" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jms:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-messaging:4.3.11.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jdbc:7.0.30" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:7.0.30" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.21" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.8" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.8.9" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjtools:1.8.9" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.20.0-GA" />
+          <element id="library" level="project" name="Maven: cglib:cglib:2.2.2" />
+          <element id="library" level="project" name="Maven: asm:asm:3.3.1" />
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.2.2.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.2.1.Final" />
+          <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.1.0" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator-annotation-processor:5.0.1.Final" />
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.7" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="library" level="project" name="Maven: com.101tec:zkclient:0.3" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.5" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: io.netty:netty-all:4.0.46.Final" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-web-support:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-springboot2-support:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd.wsentinel:sentinel-client-wrapper:1.0.10" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd.wsentinel:sentinel-common:1.0.10" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-datasource-extension:1.7.2" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-parameter-flow-control:1.7.2" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-core:1.7.2" />
+          <element id="library" level="project" name="Maven: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-cluster-client-default:1.7.2" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-cluster-common-default:1.7.2" />
+          <element id="library" level="project" name="Maven: io.netty:netty-handler:4.0.46.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-buffer:4.0.46.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-transport:4.0.46.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec:4.0.46.Final" />
+          <element id="library" level="project" name="Maven: com.alibaba.csp:sentinel-web-servlet:1.7.2" />
+          <element id="archive" name="promotion-base-biz-1.0.0.jar">
+            <element id="module-output" name="promotion-base-biz" />
+          </element>
+          <element id="archive" name="promotion-base-service-1.0.0.jar">
+            <element id="module-output" name="promotion-base-service" />
+          </element>
+          <element id="archive" name="promotion-base-model-1.0.0.jar">
+            <element id="module-output" name="promotion-base-model" />
+          </element>
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wes-client:1.0.12" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wes-common:1.0.12" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wes-protocol:1.0.12" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.client:transport:5.6.12" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.plugin:transport-netty3-client:5.6.12" />
+          <element id="library" level="project" name="Maven: org.locationtech.spatial4j:spatial4j:0.6" />
+          <element id="library" level="project" name="Maven: com.vividsolutions:jts:1.13" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.plugin:transport-netty4-client:5.6.12" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec-http:4.0.46.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-resolver:4.1.13.Final" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.plugin:reindex-client:5.6.12" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.client:elasticsearch-rest-client:5.6.12" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpasyncclient:4.1.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore-nio:4.4.5" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.plugin:lang-mustache-client:5.6.12" />
+          <element id="library" level="project" name="Maven: com.github.spullara.mustache.java:compiler:0.9.3" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.plugin:percolator-client:5.6.12" />
+          <element id="library" level="project" name="Maven: org.elasticsearch.plugin:parent-join-client:5.6.12" />
+          <element id="library" level="project" name="Maven: org.elasticsearch:elasticsearch:5.6.12" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-common:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-backward-codecs:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-grouping:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-highlighter:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-join:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-memory:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-misc:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queries:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queryparser:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-sandbox:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-spatial:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-spatial-extras:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-spatial3d:6.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-suggest:6.6.1" />
+          <element id="library" level="project" name="Maven: org.elasticsearch:securesm:1.2" />
+          <element id="library" level="project" name="Maven: net.sf.jopt-simple:jopt-simple:5.0.2" />
+          <element id="library" level="project" name="Maven: com.carrotsearch:hppc:0.7.1" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.8.6" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.8.6" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.8.6" />
+          <element id="library" level="project" name="Maven: com.tdunning:t-digest:3.0" />
+          <element id="library" level="project" name="Maven: org.hdrhistogram:HdrHistogram:2.1.9" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.11.2" />
+          <element id="library" level="project" name="Maven: org.elasticsearch:jna:4.4.0-1" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-metrics-annotation:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-metrics-annotation-processor:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-metrics-annotation-api:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-metrics-annotation-instrument:2.2.24" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.11.2" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.2.RELEASE" />
+          <element id="library" level="project" name="Maven: com.wormpex.inf.promotion:common-monitor:1.0.0" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-monitor:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-redis:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wclient-redis:1.3.20" />
+          <element id="library" level="project" name="Maven: biz.paluch.redis:lettuce:4.5.0.Final" />
+          <element id="library" level="project" name="Maven: io.reactivex:rxjava:1.3.8" />
+          <element id="library" level="project" name="Maven: io.netty:netty-common:4.0.46.Final" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-biz:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-deprecated:2.2.24" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.3" />
+          <element id="library" level="project" name="Maven: com.ning:compress-lzf:1.0.1" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wddl:1.3.18" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:asynclogger:1.0.4" />
+          <element id="library" level="project" name="Maven: com.lmax:disruptor:3.2.1" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wconfig-client:1.3.4" />
+          <element id="library" level="project" name="Maven: com.jayway.jsonpath:json-path:2.3.0" />
+          <element id="library" level="project" name="Maven: net.minidev:json-smart:2.3" />
+          <element id="library" level="project" name="Maven: net.minidev:accessors-smart:1.2" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:5.0.4" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wtrace-client:1.1.21" />
+          <element id="library" level="project" name="Maven: com.caucho:hessian:4.0.38" />
+          <element id="library" level="project" name="Maven: org.json:json:20080701" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-instrument-client:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-instrument-tools:2.2.24" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-instrument-agent:2.2.24" />
+          <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.9.6" />
+          <element id="library" level="project" name="Maven: com.wormpex.inf:promotion-base-api:1.0.33" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wsearch-client:1.1.13" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wsearch-api:1.1.13" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wsearch-expression:1.1.13" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:id-generator-client:1.1.3" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:id-generator-api:1.1.3" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wmq-boot:1.1.13" />
+          <element id="library" level="project" name="Maven: org.springframework.amqp:spring-rabbit:1.7.4.RELEASE" />
+          <element id="library" level="project" name="Maven: com.rabbitmq:http-client:1.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:4.0.2" />
+          <element id="library" level="project" name="Maven: org.springframework.retry:spring-retry:1.2.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.amqp:spring-amqp:1.7.4.RELEASE" />
+          <element id="library" level="project" name="Maven: com.qunar.qmq:qmq:1.1.24" />
+          <element id="library" level="project" name="Maven: io.opentracing:opentracing-util:0.31.0" />
+          <element id="library" level="project" name="Maven: io.opentracing:opentracing-api:0.31.0" />
+          <element id="library" level="project" name="Maven: io.opentracing:opentracing-noop:0.31.0" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.7" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wmq-metrics:1.1.13" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wmq-base:1.1.13" />
+          <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.11" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wmq-api:1.1.13" />
+          <element id="library" level="project" name="Maven: org.apache.avro:avro:1.9.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.19" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.70" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.1" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wlogging-logback:1.1.10" />
+          <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-api:2.2.24" />
+          <element id="library" level="project" name="Maven: com.googlecode.libphonenumber:libphonenumber:7.1.1" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.9.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-afterburner:2.10.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.3" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.5" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+          <element id="library" level="project" name="Maven: com.wormpex.fd:wlogging-errorlog:1.1.10" />
+          <element id="library" level="project" name="Maven: org.apache.flume:flume-ng-sdk:1.5.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.avro:avro-ipc:1.9.1" />
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity-engine-core:2.0" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.3.2" />
+          <element id="library" level="project" name="Maven: org.apache.thrift:libthrift:0.7.0" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.5" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../cvs/promotion-base-store/promotion-base-provider/target/promotion-base-provider/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="promotion-base-provider/web/Web" />
+    </root>
+  </artifact>
+</component>

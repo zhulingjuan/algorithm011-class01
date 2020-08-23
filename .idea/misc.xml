@@ -8,21 +8,9 @@
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-auth" />
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/cvs-user-center/user-center-login" />
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/cvs_meepo/web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../cvs/promotion-base-store/promotion-base-provider" />
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/qa_test" />
     <file type="web" url="file://$PROJECT_DIR$/../../cvs/trade_case_autocreate" />
-  </component>
-  <component name="MavenProjectsManager">
-    <option name="originalFiles">
-      <list>
-        <option value="$PROJECT_DIR$/../../cvs/cvs-promotion/pom.xml" />
-        <option value="$PROJECT_DIR$/../../cvs/cvs-order-user/pom.xml" />
-        <option value="$PROJECT_DIR$/../../cvs/cvs-order-man/pom.xml" />
-        <option value="$PROJECT_DIR$/../../cvs/trade_case_autocreate/pom.xml" />
-        <option value="$PROJECT_DIR$/../../cvs/cvs-user-center/pom.xml" />
-        <option value="$PROJECT_DIR$/../../cvs/cvs_meepo/pom.xml" />
-        <option value="$PROJECT_DIR$/../../cvs/qa_test/pom.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/compile" />

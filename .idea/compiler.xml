@@ -6,40 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cvs-order-man.biz" />
-        <module name="cvs-order-man.common" />
-        <module name="cvs-order-man.model" />
-        <module name="cvs-order-man.provider" />
-        <module name="cvs-order-user.biz" />
-        <module name="cvs-order-user.common" />
-        <module name="cvs-order-user.man" />
-        <module name="cvs-order-user.service" />
-        <module name="cvs-promotion-service" />
-        <module name="cvs-promotion-task" />
-        <module name="cvs-promotion-web" />
-        <module name="cvs_meepo.cms" />
-        <module name="cvs_meepo.couponcenter" />
-        <module name="cvs_meepo.dataset" />
-        <module name="cvs_meepo.groupbuy" />
-        <module name="cvs_meepo.lottery" />
-        <module name="cvs_meepo.notify" />
-        <module name="cvs_meepo.ordercoupon" />
-        <module name="cvs_meepo.packagecenter" />
-        <module name="cvs_meepo.privilegecard" />
-        <module name="cvs_meepo.qrcode" />
-        <module name="cvs_meepo.receivecenter" />
-        <module name="cvs_meepo.service" />
-        <module name="cvs_meepo.share" />
-        <module name="cvs_meepo.task" />
-        <module name="cvs_meepo.web" />
-        <module name="cvs_meepo.zerobuy" />
-        <module name="qa-test" />
-        <module name="scenariov2" />
-        <module name="trade_case_autocreate" />
-        <module name="user-center-auth" />
-        <module name="user-center-biz" />
-        <module name="user-center-login" />
-        <module name="user-center-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -69,11 +35,17 @@
       <module name="cvs_meepo.privilegecard" target="1.8" />
       <module name="cvs_meepo.qrcode" target="1.8" />
       <module name="cvs_meepo.receivecenter" target="1.8" />
+      <module name="cvs_meepo.redpackage" target="1.8" />
       <module name="cvs_meepo.service" target="1.8" />
       <module name="cvs_meepo.share" target="1.8" />
       <module name="cvs_meepo.task" target="1.8" />
       <module name="cvs_meepo.web" target="1.8" />
       <module name="cvs_meepo.zerobuy" target="1.8" />
+      <module name="promotion-base-biz" target="1.8" />
+      <module name="promotion-base-model" target="1.8" />
+      <module name="promotion-base-provider" target="1.8" />
+      <module name="promotion-base-service" target="1.8" />
+      <module name="promotion-base-store" target="1.8" />
       <module name="qa-test" target="1.8" />
       <module name="scenariov2" target="1.8" />
       <module name="trade_case_autocreate" target="1.8" />

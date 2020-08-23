@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week_08" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_09" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_01" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/compile" />
     </content>
     <orderEntry type="inheritedJdk" />

@@ -81,7 +81,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.16.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.16.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.16.RELEASE" />
-          <element id="library" level="project" name="Maven: com.wormpex.cvs:user-center-api:1.1.33" />
+          <element id="library" level="project" name="Maven: com.wormpex.cvs:user-center-api:1.1.34" />
           <element id="library" level="project" name="Maven: com.wormpex.fd:usercenter-common-client:1.0.1" />
           <element id="library" level="project" name="Maven: com.wormpex.cvs:cvs-root.api:1.2.9" />
           <element id="library" level="project" name="Maven: com.wormpex.common:wcommon-deprecated:2.2.20" />

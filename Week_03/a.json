@@ -1,0 +1,609 @@
+{
+  "ret": true,
+  "status": 0,
+  "data": {
+    "orderId": "10134111197913",
+    "orderDate": "2020-08-17 12:56:32",
+    "version": 20,
+    "orderType": "SELFPOS",
+    "orderTypeName": "自助扫码付",
+    "channel": 0,
+    "shopInfo": {
+      "shopId": 31264,
+      "shopCode": "100025002",
+      "shopName": "酒仙桥路恒通商务园2店",
+      "shopPhone": "15311740889",
+      "shopAddress": "酒仙桥路10号北京恒通商务园29号楼1层",
+      "shopLocation": {
+        "lng": 116.492115,
+        "lat": 39.979038,
+        "coordType": "gcj02ll"
+      },
+      "distance": 0
+    },
+    "orderStatus": {
+      "status": "已完成",
+      "time": "13:31:13",
+      "statusNoteList": [
+        {
+          "text": "您此单有部分商品退款，退款金额将在1-7个工作日原路退回",
+          "newText": "您此单有部分商品退款，退款金额将在1-7个工作日原路退回",
+          "canCall": false,
+          "highlight": false
+        }
+      ],
+      "userOrderOpsList": [
+        {
+          "id": "DELETE",
+          "code": "删除订单",
+          "enabled": true
+        },
+        {
+          "id": "GOCOMMENT",
+          "code": "去评价",
+          "enabled": true
+        },
+        {
+          "id": "REFUND",
+          "code": "查看退款",
+          "enabled": true
+        }
+      ]
+    },
+    "riskLevel": "UNKNOWN",
+    "bgPayStatus": {
+      "name": "PAY_SUCCESS"
+    },
+    "displayCode": false,
+    "productInfoList": [
+      {
+        "productId": 74723,
+        "productCode": "06013147",
+        "shopCode": "100025002",
+        "order": 0,
+        "productType": "NORMAL",
+        "categoryCode": "",
+        "erpCategoryCode": "060102",
+        "crossShop": false,
+        "displayName": "鲜肉包(1个)",
+        "subTitle": "",
+        "tags": [],
+        "smallImageUrl": "https://zz.blibee.net/baseinfo/productImage/202003/13/8b33eed0831cb5afc6f4ce01.mini.jpg",
+        "qty": 1,
+        "originCount": 0,
+        "inventory": 8,
+        "netVol": "80g",
+        "salePrice": {
+          "amount": 2.8,
+          "currency": "CNY"
+        },
+        "itemPrice": {
+          "amount": 2.3,
+          "currency": "CNY"
+        },
+        "itemPriceWithoutCoupon": {
+          "amount": 2.8,
+          "currency": "CNY"
+        },
+        "originPrice": {
+          "amount": 2.8,
+          "currency": "CNY"
+        },
+        "unitPrice": {
+          "amount": 2.3,
+          "currency": "CNY"
+        },
+        "comparePrice": {
+          "amount": 2.8,
+          "currency": "CNY"
+        },
+        "taxPrice": {
+          "amount": 0,
+          "currency": "CNY"
+        },
+        "status": "VALID",
+        "expireCodeList": [],
+        "batchCodeInfos": [],
+        "gift": false,
+        "giftQty": 0,
+        "selected": true,
+        "dailySupply": false,
+        "shopPromotion": false,
+        "subOrderType": 0,
+        "createTime": 0,
+        "tradeIn": false,
+        "inventoryStatus": true,
+        "hasRefund": false,
+        "hasFeedBack": false,
+        "presell": false,
+        "overRelay": true,
+        "intimate": false,
+        "manualAdd": true,
+        "manualMinus": true,
+        "activityGift": false,
+        "cartSource": 0,
+        "extraInfo": {},
+        "sellType": 0
+      },
+      {
+        "productId": 70228,
+        "productCode": "06013120",
+        "bProductGenRule": {
+          "qty": 1,
+          "inventoryTransfer": false,
+          "itemList": [
+            {
+              "productCode": "06013070",
+              "qty": 1,
+              "contentVol": 0,
+              "barcode": "2506013070934",
+              "perTaxAmount": {
+                "amount": 0,
+                "currency": "CNY"
+              },
+              "productDisplayName": "豆腐素包(1个)"
+            },
+            {
+              "productCode": "06013118",
+              "qty": 1,
+              "contentVol": 0,
+              "barcode": "2506013118759",
+              "perTaxAmount": {
+                "amount": 0,
+                "currency": "CNY"
+              },
+              "productDisplayName": "豆腐素包（新）"
+            },
+            {
+              "productCode": "06013185",
+              "qty": 1,
+              "contentVol": 0,
+              "barcode": "2506013185522",
+              "perTaxAmount": {
+                "amount": 0,
+                "currency": "CNY"
+              },
+              "productDisplayName": "豆腐素包（新）"
+            }
+          ]
+        },
+        "shopCode": "100025002",
+        "order": 0,
+        "productType": "NORMAL",
+        "categoryCode": "",
+        "erpCategoryCode": "060101",
+        "crossShop": false,
+        "displayName": "豆腐素包(1个)",
+        "subTitle": "",
+        "tags": [],
+        "smallImageUrl": "https://zz.blibee.net/baseinfo/productImage/201910/09/2ad31e2fd3af5281c6f4ce01.mini.jpg",
+        "qty": 1,
+        "originCount": 0,
+        "inventory": 1,
+        "netVol": "80g",
+        "salePrice": {
+          "amount": 2.2,
+          "currency": "CNY"
+        },
+        "itemPrice": {
+          "amount": 1.81,
+          "currency": "CNY"
+        },
+        "itemPriceWithoutCoupon": {
+          "amount": 2.2,
+          "currency": "CNY"
+        },
+        "originPrice": {
+          "amount": 2.2,
+          "currency": "CNY"
+        },
+        "unitPrice": {
+          "amount": 1.81,
+          "currency": "CNY"
+        },
+        "comparePrice": {
+          "amount": 2.2,
+          "currency": "CNY"
+        },
+        "taxPrice": {
+          "amount": 0,
+          "currency": "CNY"
+        },
+        "status": "VALID",
+        "expireCodeList": [],
+        "batchCodeInfos": [],
+        "gift": false,
+        "giftQty": 0,
+        "selected": true,
+        "dailySupply": false,
+        "shopPromotion": false,
+        "subOrderType": 0,
+        "createTime": 0,
+        "tradeIn": false,
+        "inventoryStatus": true,
+        "hasRefund": false,
+        "hasFeedBack": false,
+        "presell": false,
+        "overRelay": true,
+        "intimate": false,
+        "manualAdd": true,
+        "manualMinus": true,
+        "activityGift": false,
+        "cartSource": 0,
+        "extraInfo": {},
+        "sellType": 0
+      }
+    ],
+    "netVolProductInfoList": [],
+    "promotionInfoList": [
+      {
+        "activityId": 0,
+        "carrierType": "Coupon",
+        "couponId": 0,
+        "chosen": true,
+        "overlying": false,
+        "preferential": {
+          "amount": 3,
+          "currency": "CNY"
+        },
+        "needGPS": false,
+        "available": false
+      }
+    ],
+    "carrierListInfo": {
+      "couponsCanUse": [
+        {
+          "activityId": 0,
+          "carrierType": "Coupon",
+          "couponId": 0,
+          "chosen": true,
+          "overlying": false,
+          "preferential": {
+            "amount": 3,
+            "currency": "CNY"
+          },
+          "needGPS": false,
+          "available": false
+        }
+      ],
+      "couponsCannotUse": [],
+      "privilegesCanUse": [],
+      "privilegesCannotUse": []
+    },
+    "batchProductInfoList": [],
+    "productChangeInfoList": [],
+    "refundInfo": [
+      {
+        "refundDate": "1-7个工作日",
+        "applyDate": "2020-08-17 13:31",
+        "refundType": "原路退回",
+        "refundReason": "其他",
+        "refundTotalAmount": {
+          "amount": 9.69,
+          "currency": "CNY"
+        },
+        "refundDeliveryAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        },
+        "refundPackageAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        },
+        "refundAmount": {
+          "amount": 9.69,
+          "currency": "CNY"
+        },
+        "refundHoneyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "refundAheadCardAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        },
+        "refundEnterpriseAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        },
+        "refundItems": [],
+        "refundNetvolItems": [],
+        "refundBatchItems": [
+          {
+            "uuid": "202008160104010213",
+            "productType": "NORMAL",
+            "productId": "80568",
+            "productCode": "04010213",
+            "productName": "黑桃24-担担凉面 1",
+            "count": 1,
+            "userRefundAmount": {
+              "amount": 9.69,
+              "currency": "CNY"
+            },
+            "productAmount": {
+              "amount": 11.8,
+              "currency": "CNY"
+            }
+          }
+        ],
+        "refundCombos": [],
+        "weightRefund": false
+      }
+    ],
+    "eCardInfoList": [],
+    "settlementInfo": {
+      "goodsAmount": {
+        "amount": 16.8,
+        "currency": "CNY"
+      },
+      "goodsTaxAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "totalAmount": {
+        "amount": 13.8,
+        "currency": "CNY"
+      },
+      "expressAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "baseExpressAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "extendExpressAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "expressCouponSubAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "freeExpressDiffAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "baseExpressDiffAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "packageAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "enterprisePreferentialAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "enterpriseActivityAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "preferentialAmount": {
+        "amount": 0.89,
+        "currency": "CNY"
+      },
+      "recGoodsMoney": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "recPromotionMoney": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "totalSettlePreferentialAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "aheadCardUseAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "refundAheadCardAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "userPayAmount": {
+        "amount": 13.8,
+        "currency": "CNY"
+      },
+      "userPayAmountWithoutHoney": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "enterpriseRefundAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "refundAmount": {
+        "amount": 9.69,
+        "currency": "CNY"
+      },
+      "totalHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "useHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "canUsedHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "giftHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "skuCashBackHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "orderCashBackHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "refundHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "refundReplaceHoney": {
+        "honeyAmount": {
+          "amount": 0,
+          "currency": "HNY"
+        },
+        "honeyMoneyAmount": {
+          "amount": 0,
+          "currency": "CNY"
+        }
+      },
+      "prepayAmount": {
+        "amount": 4.11,
+        "currency": "CNY"
+      },
+      "displayPrepayAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "displayWxPreferentialAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "allPayTypePayAmount": {
+        "amount": 4.11,
+        "currency": "CNY"
+      },
+      "vipCardAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "payTypeSubAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "totalAmountWithoutCoupon": {
+        "amount": 16.8,
+        "currency": "CNY"
+      },
+      "privilegeAmount": {
+        "amount": 0,
+        "currency": "CNY"
+      },
+      "couponAmount": {
+        "amount": 3,
+        "currency": "CNY"
+      }
+    },
+    "displayReturnHoneyFlag": true,
+    "payInfo": {
+      "payMode": [
+        "WECHAT_APP"
+      ],
+      "payModeDetails": [
+        {
+          "payModeCN": "微信支付",
+          "withholdStatus": false,
+          "originalWithholdStatus": false,
+          "payMode": "WECHAT_APP"
+        }
+      ],
+      "chargePayMode": [
+        {
+          "payModeCN": "微信支付",
+          "withholdStatus": false,
+          "originalWithholdStatus": false,
+          "payMode": "WECHAT"
+        },
+        {
+          "payModeCN": "支付宝支付",
+          "withholdStatus": false,
+          "originalWithholdStatus": false,
+          "payMode": "ALI"
+        }
+      ]
+    },
+    "orderTips": [],
+    "tagTips": [],
+    "cartNotes": [],
+    "displayCartOrders": false,
+    "hotline": "4000001234",
+    "styleInfo": {
+      "detailSettleStyle": "DETAIL_SETTLE_REFUND"
+    },
+    "deviceInfo": {
+      "intelliDeviceType": 0
+    },
+    "experienceCardTip": {
+      "inExperience": false
+    },
+    "activityIds": [
+      "1220052424281480"
+    ],
+    "packageInfos": [],
+    "counterMallGroupInfo": {
+      "goodsOverWeight": 0,
+      "allSkuWeight": 0,
+      "nonDistributionFeeAmount": 0,
+      "baseExpressAmount": 0,
+      "supportDelivery": false
+    },
+    "showServiceButton": true,
+    "contactInfos": [],
+    "rubbishView": {
+      "showRubbishButton": false
+    },
+    "simpleInvoiceInfo": {
+      "canInvoice": true,
+      "rule": [
+        "按照国家税务总局规定，增值税电子普通发票与增值税普通发票具有相同的法律效力。",
+        "发票开具金额以您实际支付金额为准，不包括特惠、优惠券、蜂蜜、礼品卡、等各类优惠金额。",
+        "我们支持按您实际购买的商品或服务明细逐项开具发票，发票开具内容无法自行指定或修改。",
+        "您可访问【我的】-【电子发票】-【发票说明】了解更多发票信息。"
+      ]
+    },
+    "newCollage": false
+  }
+}
